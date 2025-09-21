@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='900'>
+  <defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='#f6d365'/><stop offset='1' stop-color='#fda085'/></linearGradient></defs>
+  <rect width='100%' height='100%' fill='url(#g)'/>
+  <g fill='#5b2e1a' font-family='Arial, sans-serif' font-weight='700'>
+    <text x='8%' y='32%' font-size='64'>Khởi đầu ngày mới — Bí quyết bữa sáng sinh động</text>
+    <text x='8%' y='44%' font-size='28'>Ăn sáng thông minh, tràn năng lượng — Gợi ý món ngon: bánh cuốn Như Thảo</text>
+  </g>
+</svg>
